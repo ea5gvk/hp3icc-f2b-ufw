@@ -29,11 +29,11 @@ si cuenta con los conocimientos avanzados de manejo y administracion de redes, y
 
 * Para utilizar el menu de configuracion , escriba en su consola ssh o terminal promp:   
 
-....
+...
 
     menu-ufw 
 
-....
+...
 * Puede agregar o remover puertos uno a uno , o agregar varios puertos separados por coma (,) 
 
 * Al agregar o remover puertos , debe especificar el tipo de protocolo , precionando: T , U , B 
