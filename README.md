@@ -17,7 +17,7 @@ si cuenta con los conocimientos avanzados de manejo y administracion de redes, y
 
        apt-get install sudo curl -y
        
-       sh -c "$(curl -fsSL https://gitlab.com/hp3icc/emq-TE1/-/raw/main/install.sh)"
+       sh -c "$(curl -fsSL https://gitlab.com/hp3icc/f2b-ufw/-/raw/main/install.sh)"
        
 ```
 
