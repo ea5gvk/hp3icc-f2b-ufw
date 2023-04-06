@@ -22,9 +22,13 @@ si cuenta con los conocimientos avanzados de manejo y administracion de redes, y
 
 ## configuracion
 
-* Al finalizar la instalacion , se abrira el menu-ufw 
+* Al finalizar la instalacion , se abrira menu-ufw 
 
-  asegurese de abrir todos los puertos que requiera antes de activar el firewall
+  asegurese de abrir todos los puertos que requiera antes de activar el firewall.
+
+* Para utilizar el menu de configuracion , escriba en su consola ssh o terminal promp: 
+
+menu-ufw 
 
 * Puede agregar o remover puertos uno a uno , o agregar varios puertos separados por coma (,) 
 
