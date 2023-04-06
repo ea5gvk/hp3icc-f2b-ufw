@@ -26,9 +26,7 @@ si cuenta con los conocimientos avanzados de manejo y administracion de redes, y
 
   asegurese de abrir todos los puertos que requiera antes de activar el firewall.
 
-* Para utilizar el menu de configuracion , escriba en su consola ssh o terminal promp: 
-
-menu-ufw 
+* Para utilizar el menu de configuracion , escriba en su consola ssh o terminal promp:   menu-ufw 
 
 * Puede agregar o remover puertos uno a uno , o agregar varios puertos separados por coma (,) 
 
