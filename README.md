@@ -34,7 +34,7 @@ si cuenta con los conocimientos avanzados de manejo y administracion de redes, y
               UDP     = U
               TCP/UDP = B
 
-# Funsionamiento
+## Funsionamiento
 
 * Al activar el firewall, solo el puerto 22 TCP , estara abierto de forma predeterminada para recibir conexiones, debe agregar los puertos que requira queden abiertos para recibir conexiones , ejemplo 80,445 
 
@@ -44,7 +44,7 @@ si cuenta con los conocimientos avanzados de manejo y administracion de redes, y
 
 * Puede activar o desactivar el firewall , y su configuracion personalizada de puertos abiertos o cerrados no se borrara .
 
-# Auto Protecion 
+## Auto Protecion 
 
 * Al activar el Firewall, cualquier intento de conexion a su equipos, en cualquier puerto que no este abierto , el ip sera bloqueado por un minuto de forma automatica.
 
