@@ -39,9 +39,14 @@ si cuenta con los conocimientos avanzados de manejo y administracion de redes, y
 
 * Al agregar o remover puertos , debe especificar el tipo de protocolo , precionando: T , U , B 
   
-  Ejemplos :  TCP     = T
-              UDP     = U
-              TCP/UDP = B
+  Ejemplos :  
+  
+          TCP       = T
+  
+          UDP       = U
+
+          TCP & UDP = B
+
 
 ## Funsionamiento
 
