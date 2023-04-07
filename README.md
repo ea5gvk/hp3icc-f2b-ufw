@@ -35,7 +35,7 @@ si cuenta con los conocimientos avanzados de manejo y administracion de redes, y
 
 ```
 
-* Puede agregar o remover puertos uno a uno , o agregar varios puertos separados por coma (,) 
+* Puede agregar o remover puertos de entrada o salida a su servidor , para mayor seguridad puede especificar el protocolo de los puertos de entrada (TCP / UDP)
 
 * Al agregar o remover puertos , debe especificar el tipo de protocolo , precionando: T , U , B 
   
