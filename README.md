@@ -2,7 +2,7 @@
 
 ![alt text](https://gitlab.com/hp3icc/f2b-ufw/-/raw/main/firewall.jpg)
 
-## Getting started
+## Resumen
 
 F2B+UFW es un scrip que instala y configura de forma desatendida Fail2Ban y UFW , de forma que trabajen en conjunto, para prevenir ataques de fuerza bruta ssh u otro tipo de conexiones no deseadas en nuestros servidores o equipos .
 
@@ -58,4 +58,10 @@ si cuenta con los conocimientos avanzados de manejo y administracion de redes, y
 * Al activar el Firewall, cualquier intento de conexion a su equipos, en cualquier puerto que no este abierto , el ip sera bloqueado por un minuto de forma automatica.
 
 * Cualquier intento fallido de conexion ssh entrante al puerto 22 , el ip sera bloqueado de forma automatica por 1 hora
+
+## Fuentes
+
+* https://www.fail2ban.org/wiki/index.php/Main_Page
+
+* https://es.linux-console.net/?p=682#gsc.tab=0
 
